@@ -1,0 +1,5 @@
+{
+  "name": "AtomOS",
+  "description": "A dashboard to track the status of design system components with filters and progress tracking.",
+  "requestFramePermissions": []
+}
